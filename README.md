@@ -39,12 +39,12 @@ Adding obstacles or hazards on the grid.
 Implementing levels with different challenges or objectives.
 # Installation&Requirements
 Before running the game, make sure you have the following installed:
-Python 3.x
-Pygame Library (pip install pygame).
+1.Python 3.x
+2.Pygame Library (pip install pygame).
 
 ## Clone the Repository:
-git clone https://github.com/Saivardhan190/snake_game.git
-Install Pygame: If Pygame is not installed, install it using pip.
+1.git clone https://github.com/Saivardhan190/snake_game.git
+2.Install Pygame: If Pygame is not installed, install it using pip.
 
 ##License
 This project is open-source and available under the MIT License.
